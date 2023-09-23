@@ -52,4 +52,4 @@ Congratulations! You've successfully connected your ESP32 with a temperature sen
 
 You dashboard should look like this:
 
-<img src="https://github.com/dashio-connect/esp32-temperature-monitor/blob/main/Documents/esp-temp-monitor.png" width="800">	
+<img src="https://github.com/dashio-connect/esp32-temperature-monitor/blob/main/Documents/esp32-temp-monitor.png" width=400>	
