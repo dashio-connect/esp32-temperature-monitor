@@ -36,10 +36,9 @@ Apple              | Android
 
 6. **View your IoT device**: Under 'All Devices' -> 'Find New Device' -> 'My Devices on Dash', You should see a device named "Temperature" in your dashboard. Tap on it to access your IoT device.
 
-7. . **Watch the temerature**: You will see the current temperature and the temperature graph will be updated every 10 minutes. You can zoom in and out and scroll through the temperature graph.
+7. **Watch the temerature**: You will see the current temperature and the temperature graph will be updated every 10 minutes. You can zoom in and out and scroll through the temperature graph.
 
 8.  **Set Alarms**: You can set the maximum and minimum temperature alarms. When the temperature falls outside the alarm setpoint you will receive a notification on your mobile device.
-
 
 ## Additional Information
 
@@ -50,3 +49,7 @@ Apple              | Android
 - Feel free to explore and modify the code to add more features or integrate it with other sensors and controls.
 
 Congratulations! You've successfully connected your ESP32 with a temperature sensor to the Dash IoT Dashboard App.
+
+You dashboard should look like this:
+
+<img src="https://github.com/dashio-connect/esp32-temperature-monitor/blob/main/Documents/esp-temp-monitor.png" width="800">	
